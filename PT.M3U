@@ -47,6 +47,29 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ONFM" tvg-name="ONFM" tvg-logo="https://televisao.tv/images/on-fm-portugal.jpg" group-title="Général", ONFM
 https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="KuriakosCine" tvg-name="Kuriakos Cine" tvg-logo="https://televisao.tv/images/kuriakos-cine.jpg" group-title="Films", Kuriakos Cine
+https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-id="StarComedy" tvg-name="Star Comedy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgCgG580WoSC6D5eqItu4Q_YVQwGND7nmXacFNgXO0cQ&s=10" group-title="Films", Star Comedy
+http://znty.dyndns.org:5010/hls/foxcomedy.m3u8
 
+#EXTINF:-1 tvg-id="StarCrime" tvg-name="Star Crime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/Star_Crime_2023.svg" group-title="Films", Star Crime
+http://znty.dyndns.org:5010/hls/foxcrime.m3u8
 
+#EXTINF:-1 tvg-id="StarLife" tvg-name="Star Life" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHqz9YalZfRACVq-PmHaNsp_7O7SLRvWKEd14u33b_Hg&s=10" group-title="Général", Star Life
+http://znty.dyndns.org:5010/hls/foxlife.m3u8
+
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcdey_Ek3Xc9okKopf2G0BDtSXqalsOUSTwTTJw-KFIA&s=10" group-title="Films", AXN
+http://znty.dyndns.org:5010/hls/axn.m3u8
+
+#EXTINF:-1 tvg-id="Famatv" tvg-name="Fama TV" tvg-logo="https://i.scdn.co/image/ab67656300005f1fcb3d1141971639e9185f7a89" group-title="Général", Fama TV
+https://tv2.fastcast4u.com:3310/live/famatvlive.m3u8
+
+#EXTINF:-1 tvg-id="KuriakosKids" tvg-name="Kuriakos Kids" tvg-logo="https://kuriakos-kids.com/wp-content/uploads/2026/05/KuriakosKids_curvas-removebg-preview.png" group-title="Anime", Kuriakos Kids
+https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KuriakosTV" tvg-name="Kuriakos TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nRGSV1t9a1Zy61yUB1aB1ykQvqONHldq91bFGcxQH4FA=s900-c-k-c0x00ffffff-no-rj" group-title="Général", Kuriakos TV
+https://w1.manasat.com/ktv/smil:ktv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KuriakosTV" tvg-name="Kuriakos TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nRGSV1t9a1Zy61yUB1aB1ykQvqONHldq91bFGcxQH4FA=s900-c-k-c0x00ffffff-no-rj" group-title="Général", Kuriakos TV
+https://w1.manasat.com/ktv/smil:ktv.smil/playlist.m3u8
