@@ -70,6 +70,3 @@ https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="KuriakosTV" tvg-name="Kuriakos TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nRGSV1t9a1Zy61yUB1aB1ykQvqONHldq91bFGcxQH4FA=s900-c-k-c0x00ffffff-no-rj" group-title="Général", Kuriakos TV
 https://w1.manasat.com/ktv/smil:ktv.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="KuriakosTV" tvg-name="Kuriakos TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nRGSV1t9a1Zy61yUB1aB1ykQvqONHldq91bFGcxQH4FA=s900-c-k-c0x00ffffff-no-rj" group-title="Général", Kuriakos TV
-https://w1.manasat.com/ktv/smil:ktv.smil/playlist.m3u8
