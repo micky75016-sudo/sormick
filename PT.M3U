@@ -1,0 +1,52 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="rtp1" tvg-name="rtp1" tvg-logo="https://www.mnb.mn/images/1.jpg" group-title="Général",rtp1
+https://streaming-live.rtp.pt/liverepeater/rtp1HD.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="fueltv" tvg-name="fueltv" tvg-logo="https://play-lh.googleusercontent.com/9d64IKhxbg6Kc__JoVMYaPVvHXkM3pJcKJWYpAPPZQhDId4V_nPV1bXjyXfCfb7ZjXfxlW47y2vHCjNKlKxG" group-title="Général",fueltv
+https://amg01074-fueltv-fueltvau-samsungau-g09kq.amagi.tv/playlist/amg01074-fueltv-fueltvau-samsungau/playlist.m3u8
+
+#EXTINF:-1 tvg-id="rtpacores" tvg-name="rtpacores" tvg-logo="https://acores.rtp.pt/wp-content/uploads/2023/10/rtp-acores.png" group-title="Général",rtpacores
+https://streaming-live.rtp.pt/liverepeater/smil:rtpacoresHD.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="rtpnoticias" tvg-name="RTP Noticias" tvg-logo="https://play-lh.googleusercontent.com/x8GW184QJYZQWEA-_ANyVS1GKDHARwONzUBDPQce1udOt4dtkzO70IxqGjssgT7FDjAEcYqrtKKx72zr73KyLQ" group-title="Infos",RTP Noticias
+https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="StarMovies" tvg-name="Star Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRTOerKxJd2pVFD86gXUOXBNdDSKD6e-ejYBR4CwMV6nBU2ZeTSUVfcqJ-&s=10" group-title="Films", Star Movies
+http://znty.dyndns.org:5010/hls/foxm.m3u8
+
+#EXTINF:-1 tvg-id="sportvplus" tvg-name="sportvplus" tvg-logo="https://www.mxgp.com/sites/default/files/news/image/SportTv_Institucional-05.png" group-title="Sport", sportvplus
+http://znty.dyndns.org:5010/hls/sportv+.m3u8
+
+#EXTINF:-1 tvg-id="adbtv" tvg-name="adbtv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/ad3c03d69d0f5d408f5839bed261948f.webp" group-title="Général", adbtv
+https://live-tv.waytv.pt/adbtv/adbtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AXNMovies" tvg-name="AXN Movies" tvg-logo="https://yt3.googleusercontent.com/WxOEr6BgqsKl6EPd_IBdWTyIFLvmtZwdWfiOdVt8IOgwLuQEmmUNaCy_RKPZjjwArk6Tq72U=s900-c-k-c0x00ffffff-no-rj" group-title="Films", AXN Movies
+http://50.7.120.34:8080/AXN_BLACK/index.m3u8
+
+#EXTINF:-1 tvg-id="tvmana1" tvg-name="TV mana 1" tvg-logo="https://cdn.technettv.com/channel/13847/logo_256_1683889945.png" group-title="Religieux", TV mana 1
+https://w1.manasat.com/tvmana-1/smil:tvmana-1.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PortoCanal" tvg-name="Porto Canal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/ba/Logo_Porto_Canal.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Général", Porto Canal
+https://pull-live-156-1.global.ssl.fastly.net/pc5865dc25400thmb-ea6bf03b14fa318f7133/smil:pc1-jhrgyuoqe5865db-68tkgb14fa318f7133f03.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVIReality" tvg-name="TVI Reality" tvg-logo="https://img.iol.pt/image/id/6474bed4d34ea91b0aad0477" group-title="Général", TVI Reality
+https://video-auth4.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMi8yMDI2IDU6NDE6NDEgQU0maGFzaF92YWx1ZT1Wby80QzUzQkNuME10K3hpWGpMckRBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9N2ZhYTBkNGYtNzIyZC00YWRlLTlmNTMtMzhmMDdmYWY1MTlk
+
+#EXTINF:-1 tvg-id="TVIFiccao" tvg-name="TVI Ficcao" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkVVVYyP03oL2T2_XKmuQhH9NTZKS5WD1joufxpMVVBRAgEY98FVn38EQ&s=10" group-title="Séries", TVI Ficcao
+https://video-auth1.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMi8yMDI2IDU6NDE6NDEgQU0maGFzaF92YWx1ZT1Wby80QzUzQkNuME10K3hpWGpMckRBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9N2ZhYTBkNGYtNzIyZC00YWRlLTlmNTMtMzhmMDdmYWY1MTlk
+
+#EXTINF:-1 tvg-id="RTPMundo" tvg-name="RTP Mundo" tvg-logo="https://i.ytimg.com/vi/XwDcqo2Iq-s/hqdefault.jpg" group-title="Général", RTP Mundo
+https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTPMadeira" tvg-name="RTP Madeira" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/107-303426260903.png" group-title="Général", RTP Madeira
+https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTPAfrica" tvg-name="RTP Africa" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/94-575126260903.png" group-title="Général", RTP Africa
+https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ONFM" tvg-name="ONFM" tvg-logo="https://televisao.tv/images/on-fm-portugal.jpg" group-title="Général", ONFM
+https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8
+
+
+
+
