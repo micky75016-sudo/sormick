@@ -548,8 +548,33 @@ https://ogc-nsprt-tcl-roku-syndication.otteravision.com/ogc/nsprt/nsprt.m3u8
 EXTINF:-1 tvg-id="RBATV" tvg-name="RBATV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQhCKO78RT1Yh8L2aMuF4_9Hd3TVM9AOPKTDWGE0C9lg&s=10" group-title="Général", RBATV
 https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8
 
-EXTINF:-1 tvg-id="RBATV" tvg-name="RBATV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQhCKO78RT1Yh8L2aMuF4_9Hd3TVM9AOPKTDWGE0C9lg&s=10" group-title="Général", RBATV
-https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8
+EXTINF:-1 tvg-id="MuzangalaTV" tvg-name="Muzangala TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlCp2AxNrm83yI-_g10tqOEcY0r1hkmrYEBRKRXK2_Ng&s=10" group-title="Général", Muzangala TV
+https://5cf4a2c2512a2.streamlock.net/tvmuzangala/tvmuzangala/playlist.m3u8
+
+EXTINF:-1 tvg-id="KKTV" tvg-name="KK TV" tvg-logo="https://play-lh.googleusercontent.com/_GaJkxNY-hW_U3V1FeOQOaFdlNnROzenvPtIxCgTny8ACcKQwMXTwrLZWatVmZ4r7_h6EWdHEQELLxx_e_lmMA=w240-h480-rw" group-title="Général", KK TV
+https://w1.manasat.com/ktv-angola/smil:ktv-angola.smil/playlist.m3u8
+
+EXTINF:-1 tvg-id="TVZimbo" tvg-name="TV Zimbo" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/fs_webp/59478a70531129.63ffb18a859fd.png" group-title="Général", TV Zimbo
+https://sgn-cdn-video.vods2africa.com/Tv-Zimbo/index.fmp4.m3u8
+
+EXTINF:-1 tvg-id="TVCidade" tvg-name="TV Cidade" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmrvI3urlc7ULw083tkGBSt9wvtTYblp3-QdliKyq8Ug&s=10" group-title="Général", TV Cidade
+https://stmv1.srvif.com/tvcidade/tvcidade/playlist.m3u8
+
+EXTINF:-1 tvg-id="TVM" tvg-name="TVM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/TVM_Mozambique_logo.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Général", TVM
+https://stream.tvm.co.mz/hls/tvm/playlist.m3u8
+
+EXTINF:-1 tvg-id="TVManaMocambique" tvg-name="TV Mana Mocambique" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScSlI8GHMOT4ep03fPZ6UVcbZbvhy2fnTEH0XISDOWqaxkJOjO_YZE-RE&s=10" group-title="Religieux", TV Mana Mocambique
+https://w2.manasat.com/tvmana-mz/smil:tvmana-mz.smil/playlist.m3u8
+
+EXTINF:-1 tvg-id="TVVitoria" tvg-name="TV Vitoria" tvg-logo="https://play-lh.googleusercontent.com/zGKtykXg_w9C3eB4nqeVa4WvbQceYmyjJUUuksN9F-hxeORPx7h4Quos11CnC23wPcoj0WK6hHP2Z92qqHmixA=w240-h480-rw" group-title="Général", TV Vitoria
+https://stmv1.srvif.com/tvvitoriamz/tvvitoriamz/playlist.m3u8
+
+EXTINF:-1 tvg-id="ReinoInfantil" tvg-name="Reino Infantil" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHWEf_f1GN2w5V78RaevzcH3T0Lq8VYyeyOWgek_Scjg&s=10" group-title="Général", Reino Infantil
+https://www.khuwemultimedia.com/hls/reinoinfantiltv/reinoinfantiltv.m3u8
+
+EXTINF:-1 tvg-id="TVMInternacional" tvg-name="TVM Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/TVM_Mozambique_logo.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Général", TVM Internacional
+http://online.tvm.co.mz:1935/live/smil:Channel2.smil/playlist.m3u8
+
 
 
 
