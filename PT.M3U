@@ -578,6 +578,9 @@ http://online.tvm.co.mz:1935/live/smil:Channel2.smil/playlist.m3u8
 EXTINF:-1 tvg-id="TraceBrazuca" tvg-name="Trace Brazuca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Trace_Brazuca_logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" group-title="Musique", Trace Brazuca
 https://channels.trace.plus/Traceprod/BRAZIL_hd/index.m3u8
 
+EXTINF:-1 tvg-id="EuronewsPortuguese" tvg-name="Euronews Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Euronews_Logo_2025.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Informations", Euronews Portuguese
+https://6e52fb8b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheHhUVi1ldV9FdXJvbmV3c1BvcnR1Z3Vlc19ITFM/playlist.m3u8
+
 
 
 
