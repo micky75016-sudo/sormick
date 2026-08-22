@@ -575,6 +575,9 @@ https://www.khuwemultimedia.com/hls/reinoinfantiltv/reinoinfantiltv.m3u8
 EXTINF:-1 tvg-id="TVMInternacional" tvg-name="TVM Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/TVM_Mozambique_logo.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Général", TVM Internacional
 http://online.tvm.co.mz:1935/live/smil:Channel2.smil/playlist.m3u8
 
+EXTINF:-1 tvg-id="TraceBrazuca" tvg-name="Trace Brazuca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Trace_Brazuca_logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" group-title="Musique", Trace Brazuca
+https://channels.trace.plus/Traceprod/BRAZIL_hd/index.m3u8
+
 
 
 
