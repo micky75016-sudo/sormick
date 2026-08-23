@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="MierschTV.lu" tvg-name="MierschTV" tvg-logo="https://i.imgur.com/Vdc1GYP.jpg" group-title="general",MierschTV
+https://streamer20.multimedia.blue/Eltrona/merschTV/playlist.m3u8
+#EXTINF:-1 tvg-id="RTL9.lu" tvg-name="RTL9" tvg-logo="https://i.imgur.com/nFqjVNW.png" group-title="entertainment",RTL9
+http://145.239.5.177/308/index.m3u8
+#EXTINF:-1 tvg-id="RTLTeleLetzebuerg.lu" tvg-name="RTL Tele Letzebuerg" tvg-logo="https://i.imgur.com/fkW5Gbl.png" group-title="general",RTL Tele Letzebuerg
+https://live-edge.rtl.lu/channel1/smil:channel1/playlist.m3u8
+#EXTINF:-1 tvg-id="DudelangeTV.lu" tvg-name="Dudelange TV" tvg-logo="https://i.imgur.com/2dLYZsc.png" group-title="general",Dudelange TV
+https://streamer20.multimedia.blue/Eltrona/DudelangeTV/playlist.m3u8
+#EXTINF:-1 tvg-id="apartTV.lu" tvg-name="apart TV" tvg-logo="https://i.imgur.com/IBcMIcZ.png" group-title="lifestyle;business;culture",apart TV
+https://2-fss-2.streamhoster.com/pl_124/206820-4338160-1/playlist.m3u8
+#EXTINF:-1 tvg-id="RTLWebRadioTV.lu" tvg-name="RTL Web Radio TV" tvg-logo="https://i.imgur.com/qyc8LsE.png" group-title="general",RTL Web Radio TV
+https://rtlradio-streaming.rtl.lu/rtlradiowebtv/smil:rtlradiowebtv/playlist.m3u8
+#EXTINF:-1 tvg-id="TodayRadio.lu" tvg-name="Today Radio" tvg-logo="https://i.imgur.com/O1c6wpt.png" group-title="music",Today Radio
+https://stream.rtl.lu/data/live/tele/rtltodayradio/playlist.m3u8
+#EXTINF:-1 tvg-id="RTLZwee.lu" tvg-name="RTL Zwee" tvg-logo="https://i.imgur.com/7SmCtyy.png" group-title="general",RTL Zwee
+https://live-edge.rtl.lu/channel2/smil:channel2/playlist.m3u8
+#EXTINF:-1 tvg-id="eldoTV.lu" tvg-name="eldo.TV" tvg-logo="https://i.imgur.com/vCMQLlt.png" group-title="entertainment",eldo.TV
+https://stream.eldo.lu/data/live/tele/eldotv/1080p.m3u8
+#EXTINF:-1 tvg-id="RTLGold.lu" tvg-name="RTL Gold" tvg-logo="https://i.imgur.com/LzHQoUv.png" group-title="music",RTL Gold
+https://stream.rtl.lu/data/live/tele/rtlgold/playlist.m3u8
+#EXTINF:-1 tvg-id="LuxeTV.lu" tvg-name="Luxe TV" tvg-logo="https://i.imgur.com/24ehonx.png" group-title="lifestyle",Luxe TV
+http://103.154.3.101:5001/live/1736.m3u8
