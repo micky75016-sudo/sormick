@@ -26,8 +26,95 @@ https://rt-fra.rttv.com/dvr/rtfrance/playlist.m3u8
 #EXTINF:-1 tvg-id="SonyOneBlacklist" tvg-name="Sony One Blacklist" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMagotiwBuEVfdhPVYC59emSyiT0AI6zFXAIzeemvGbQ&s=10" group-title="Films",Sony One Blacklist
 https://06cb85ad6ccb4a6b97f561e62d16ad3f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-822-FR-SONYONETHEBLACKLIST-LG_FR/playlist.m3u8
 
-#EXTINF:-1 tvg-id="SonyOneBlacklist" tvg-name="Sony One Blacklist" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMagotiwBuEVfdhPVYC59emSyiT0AI6zFXAIzeemvGbQ&s=10" group-title="Films",Sony One Blacklist
-https://06cb85ad6ccb4a6b97f561e62d16ad3f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-822-FR-SONYONETHEBLACKLIST-LG_FR/playlist.m3u8
+#EXTINF:-1 tvg-id="CNews" tvg-name="CNews" tvg-logo="https://play-lh.googleusercontent.com/fZ3rNPSIXXD8RydKTgyEAxgvBCEnZ4Gf70iJN6x13b8lnqV3MYWt2iwsBErIa46rShhksncrnWIEA2W87X2_" group-title="Informations",CNews
+https://live.eu-north-1a.cf.dmcdn.net/sec2(7F4cgH3r5PkF-DtX02H6RKW_UqDwal076-fsgh9my2zusiMp5AMVMCKqIZ7ohb2xkNulL5qf2fmyt6SjXycCBSGWuNfnrDH2TZJB0MoEXgYPl-HbtjJp8jHA3Shvx2zw)/dm/3/x3b68jn/d/live-1080@60.m3u8?startdate=2026-07-07T08%3A07%3A42%2B0000#cell=lcf-eu-north-1a
+
+#EXTINF:-1 tvg-id="CStar" tvg-name="C Star" tvg-logo="https://thumb.canalplus.pro/http/unsafe/%7BresolutionXY%7D/filters:quality(%7BimageQualityPercentage%7D)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/68304423" group-title="Général",C Star
+https://live.eu-north-1a.cf.dmcdn.net/sec2(1MUExjMlhMlVyyM5zamov11kG5fzjARKu5i0_koeAEtr3_XXcr8hsjRoXR_G87h-jI03sVjMAPWWE2bGyUlPbvQuECsSAa1w0RriTdSOwFjG1nWMb56AtAMWz2JuA9IW)/dm/3/x5gv5v0/d/live-1080@60.m3u8#cell=lcf-eu-north-1a
+
+#EXTINF:-1 tvg-id="zenith" tvg-name="zenith" tvg-logo="https://cdn.helloasso.com/img/photos/collectes/croppedimage-235a9eb790144e4a9e3224344fb2f21f.png?width=720&height=720&img_format=webp&quality=80&resize=fill" group-title="Général",zenith
+https://live.azenagroup.com/zenith/index.ll.m3u8
+
+#EXTINF:-1 tvg-id="CineWestern" tvg-name="Cine Western" tvg-logo="https://www.planetecsat.com/wp-content/uploads/2023/06/Logo-Cine-Western.png" group-title="Films",Cine Western
+https://amg00711-zylo-amg00711c8-rakuten-uk-2686.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg00711-zylofast-cinewestern-rakutenuk/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SonyOneFavoris" tvg-name="Sony One Favoris" tvg-logo="https://pbs.twimg.com/media/G47dSR9WcAAl0qO.jpg" group-title="Films",Sony One Favoris
+https://d21fkiqbljd83t.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SonyOneHitsAction" tvg-name="Sony One Hits Action" tvg-logo="https://adring.fr/wp-content/uploads/2024/04/sony-one.webp" group-title="Films",Sony One Hits Action
+https://d1tvu4639eiqii.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SonyOneHitsComedie" tvg-name="Sony One Hits Comedie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlzdaR4o2PedQEEV0hSdNncGhhWr_yMD4gNNZZNnAyvw&s=10" group-title="Films",Sony One Hits Comedie
+https://7aa9671895264ec9a384dfed1b992171.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-818-FR-SONYONEHITSCOMDIE-LG_FR/playlist.m3u8
+
+#EXTINF:-1 tvg-id="France 3 Alpes" tvg-name="France 3 Alpes" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvN6gL2fn5A9aFVZzIbXTfmPkAUik78ZeD9CVDybErUg&s" group-title="Général",France 3 Alpes
+http://5.180.164.197:8080/FRANCE3/index.m3u8
+
+#EXTINF:-1 tvg-id="Le FigaroTVIle-de-France" tvg-name="Le Figaro TV Ile-de-France" tvg-logo="https://pbs.twimg.com/profile_images/1724747584948891648/Y-8l46J1_400x400.jpg" group-title="Général",Le Figaro TV Ile-de-France
+https://figarotv-live.freecaster.com/live/freecaster/figarotv.m3u8
+
+#EXTINF:-1 tvg-id="ADNTV+" tvg-name="ADN TV+" tvg-logo="https://m.media-amazon.com/images/I/51s-YfZ2TlS.pngg" group-title="Anime",ADN TV+
+https://d3b73b34o7cvkq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gz2sgqzp076kf/adn.m3u8
+
+#EXTINF:-1 tvg-id="FrequenceNovelas" tvg-name="Frequence Novelas" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2025/06/frequence-novelas-plus-numero-300x152.png" group-title="Films",Frequence Novelas
+https://d20oth1416y9a1.cloudfront.net/playlist/amg00711-zylofast-frequencenovelas-rakutenus/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TraceMboa" tvg-name="Trace Mboa" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/d/d9/Tracemboa2022.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Général",Trace Mboa
+https://channels.trace.plus/Traceprod/MBOA_hd/index.m3u8
+
+#EXTINF:-1 tvg-id="P2MTV" tvg-name="P2M TV" tvg-logo="https://p2mtv.com/wp-content/uploads/2023/03/333002679_727530805536838_6542898624523206266_n-e1678798932783.png" group-title="Général",P2M TV
+https://vdo2.pro-fhi.net:3207/stream/play.m3u8
+
+#EXTINF:-1 tvg-id="Disney Jr." tvg-name="Disney Jr." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/2024_Disney_Jr._Logo.svg/960px-2024_Disney_Jr._Logo.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="Anime",Disney Jr.
+http://151.80.18.177:86/Disney_Junior_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="NickelodeonJunior" tvg-name="Nickelodeon Junior" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Nickelodeon_Junior_2024.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Anime",Nickelodeon Junior
+http://151.80.18.177:86/Nickelodeon_Junior/index.m3u8
+
+#EXTINF:-1 tvg-id="RMCSport1" tvg-name="RMC Sport 1" tvg-logo="https://media.ouest-france.fr/v1/pictures/6c0fd19a4d365fb24fb7f75fe3d5eebb-rmc-sport-1-programme-tv?sign=b88988754b59d7b2ec9cc28ab18b56ca77268e800476167e105f0bf0158dda00&client_id=bpservices" group-title="Général",RMC Sport 1
+https://7nyaler.streamhostingcdn.top/stream/59/index.m3u8
+
+#EXTINF:-1 tvg-id="TV5MondeAfrica" tvg-name="TV5Monde Africa" tvg-logo="https://www.sudplanete.net/_uploads/images/structures/logo_TV5Afrique.jpg" group-title="Général",TV5Monde Africa
+http://5.9.121.178/tv5monde/index.m3u8
+
+#EXTINF:-1 tvg-id="arte" tvg-name="arte" tvg-logo="https://m.media-amazon.com/images/I/21Bi8Ld1cyL.png" group-title="Général",arte
+https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
+
+#EXTINF:-1 tvg-id="Equidia" tvg-name="Equidia" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_m3y9w-T7ftvauYh9EDutx9ymizDxkobg5RYsoC4U15lw=s900-c-k-c0x00ffffff-no-rj" group-title="Général",Equidia
+https://equidia-live2-p28-cdn.hexaglobe.net/2e2db0ab3ba804917e94b04005525139/6a8aaca9/equidia/equidia-mobileapp-ios-1/eqdlivepri_fre.smil/slot09_144p.m3u8
+
+#EXTINF:-1 tvg-id="BFMBusiness" tvg-name="BFM Business" tvg-logo="https://yt3.googleusercontent.com/G7kz1M_wBZXc9HCW_RjVzJC1EL2EyEZdxznEkk6A4ytGV4-usL0cTV62ohxyNLRqHCK903Dixg=s900-c-k-c0x00ffffff-no-rj" group-title="Général",BFM Business
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8?end=END&start=LIVE
+
+#EXTINF:-1 tvg-id="EmotionL" tvg-name="Emotion L" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_n4jtS4HSm_Jb8zb3sjSPz58NHZNLyCtLsxIuOuxS9sEA=s900-c-k-c0x00ffffff-no-rj" group-title="Général",Emotion L
+https://rakutenaa-zylo-emotional-rakuten-r1zkm.amagi.tv/playlist/rakutenAA-zylo-emotional-rakuten/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BFMLyon" tvg-name="BFM Lyon" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzXiNEuMtJWrALTd1yUML16S4PB3XCNyREBSjD1Uw9S3fbnf-HbXWt3YE&s=10" group-title="Informations",BFM Lyon
+https://rakutenaa-zylo-emotional-rakuten-r1zkm.amagi.tv/playlist/rakutenAA-zylo-emotional-rakuten/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Africa24" tvg-name="Africa 24" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThyesq8WBlC5SbiICXb5S25OwdOQePMgPqjbOQkLCWn0NpKI1QbxK9fWo&s=10" group-title="Informations",Africa 24
+https://edge12.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8
+
+#EXTINF:-1 tvg-id="AfricanewsFrench" tvg-name="Africanews French" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nPCPPLjp-33-ae31fQNCUONzD_xU9OYLH0GCbz28e8dco=s900-c-k-c0x00ffffff-no-rj" group-title="Général",Africanews French
+https://cdn-euronews.akamaized.net/live/eds/africanews-fr/25050/index.m3u8
+
+#EXTINF:-1 tvg-id="Africa24Sport" tvg-name="Africa 24 Sport" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mZ_cINE0mBgjgeofYx-BQCVwn20kLXdgnKgJ8k_7J6VQ=s900-c-k-c0x00ffffff-no-rj" group-title="Sport",Africa 24 Sport
+https://edge12.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
+
+#EXTINF:-1 tvg-id="Cine+Classic" tvg-name="Cine+ Classic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Cin%C3%A9%2BClassic2024.svg/1280px-Cin%C3%A9%2BClassic2024.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="Films",Cine+ Classic
+http://99.27.51.147/CineClassic/index.m3u8
+
+#EXTINF:-1 tvg-id="BrionnaisTV" tvg-name="Brionnais TV" tvg-logo="https://brionnais.tv/uploads/images/img_social_1557390514.jpg" group-title="Général",Brionnais TV
+https://stream2.mandarine.media/brionnaistv/brionnaistv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GenerationsTV" tvg-name="Generations TV" tvg-logo="https://time2replay.com/wp-content/uploads/2023/07/generations-tv-direct.jpg" group-title="Musique",Generations TV
+https://edge12.vedge.infomaniak.com/livecast/ik:generation-tv/manifest.m3u8
+
+#EXTINF:-1 tvg-id="IntoCrime" tvg-name="Into Crime" tvg-logo="https://www.planetecsat.com/wp-content/uploads/2023/04/logo-rakuten-tv-crime.png" group-title="Films",Into Crime
+https://amg00711-zylo-amg00711c10-rakuten-fr-6731.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CineNanar" tvg-name="Cine Nanar" tvg-logo="https://yt3.googleusercontent.com/8AEX6F6GbmIR8mzt3MbFiAoK8LqR-azUulPB759VU5w-kROW7IprApg5O743DbgKPtKT7_9sfOo=s900-c-k-c0x00ffffff-no-rj" group-title="Films",Cine Nanar
+https://zylo-cinenanar-rakuten.amagi.tv/playlist.m3u8
 
 
 
