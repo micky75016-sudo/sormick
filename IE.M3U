@@ -1,0 +1,35 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="SkyNews.ie" tvg-name="Sky News" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1404.png" group-title="news",Sky News
+https://xemzi.short.gy/1000018
+#EXTINF:-1 tvg-id="SetantaSports2Eurasia.ie" tvg-name="Setanta Sports 2 Eurasia" tvg-logo="https://i.imgur.com/ouHunnK.png" group-title="sports",Setanta Sports 2 Eurasia
+http://stream.mcquack.net/235/index.m3u8
+#EXTINF:-1 tvg-id="SkySportsMainEvent.ie" tvg-name="Sky Sports Main Event" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1301.png" group-title="sports",Sky Sports Main Event
+https://xemzi.short.gy/2000001
+#EXTINF:-1 tvg-id="TG4.ie" tvg-name="TG4" tvg-logo="https://i.imgur.com/XiAKb4E.png" group-title="",TG4
+https://fastly.live.brightcove.com/6384196213112/eu-west-1/1555966122001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoieDl2YzlnLmVncmVzcy55ODN1ZWIiLCJhY2NvdW50X2lkIjoiMTU1NTk2NjEyMjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyIxNTU1OTY2MTIyMDAxIl0sImp0aSI6IjYzODQxOTYyMTMxMTIifQ.Co2xR3kmJBoxTaFTpwU0b37lJ05vNt-y32-SwfM26EA/chunklist.m3u8
+#EXTINF:-1 tvg-id="PremierSports1.ie" tvg-name="Premier Sports 1" tvg-logo="https://i.imgur.com/eOybZMU.png" group-title="sports",Premier Sports 1
+https://cdtest.global.ssl.fastly.net/1785070000~b023a98e129026ee64ab87ff37011c44/channel/n110/chunks.m3u8
+#EXTINF:-1 tvg-id="SkySportsF1.ie" tvg-name="Sky Sports F1" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1306.png" group-title="sports",Sky Sports F1
+https://xemzi.short.gy/2000005
+#EXTINF:-1 tvg-id="SkySportsFootball.ie" tvg-name="Sky Sports Football" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb3838.png" group-title="sports",Sky Sports Football
+https://xemzi.short.gy/2000003
+#EXTINF:-1 tvg-id="SetantaSports1Eurasia.ie" tvg-name="Setanta Sports 1 Eurasia" tvg-logo="https://i.imgur.com/zlJK7ca.png" group-title="sports",Setanta Sports 1 Eurasia
+http://stream.mcquack.net/234/index.m3u8
+#EXTINF:-1 tvg-id="F1Channel.ie" tvg-name="F1 Channel" tvg-logo="https://i.imgur.com/cjXzWsI.png" group-title="sports",F1 Channel
+https://amg12058-c15studio-amg12058c1-lg-us-5787.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="PremierSports2.ie" tvg-name="Premier Sports 2" tvg-logo="https://i.imgur.com/Fx1n84p.png" group-title="sports",Premier Sports 2
+https://7nyaler.streamhostingcdn.top/stream/5/index.m3u8
+#EXTINF:-1 tvg-id="OireachtasTVCommitteeRoom1.ie" tvg-name="Oireachtas TV Committee Room 1" tvg-logo="https://i.imgur.com/JLYqKC0.jpg" group-title="legislative",Oireachtas TV Committee Room 1
+https://d33zah5htxvoxb.cloudfront.net/el/live/cr1/hls.m3u8
+#EXTINF:-1 tvg-id="OireachtasTVCommitteeRoom3.ie" tvg-name="Oireachtas TV Committee Room 3" tvg-logo="https://i.imgur.com/EoAQeg5.jpg" group-title="legislative",Oireachtas TV Committee Room 3
+https://d33zah5htxvoxb.cloudfront.net/el/live/cr3/hls.m3u8
+#EXTINF:-1 tvg-id="OireachtasTVSeanadEireann.ie" tvg-name="Oireachtas TV Seanad Eireann" tvg-logo="https://i.imgur.com/c5TI2DT.jpg" group-title="legislative",Oireachtas TV Seanad Eireann
+https://d33zah5htxvoxb.cloudfront.net/el/live/seanad/hls.m3u8
+#EXTINF:-1 tvg-id="OireachtasTVCommitteeRoom2.ie" tvg-name="Oireachtas TV Committee Room 2" tvg-logo="https://i.imgur.com/2Wxx2jK.jpg" group-title="legislative",Oireachtas TV Committee Room 2
+https://d33zah5htxvoxb.cloudfront.net/el/live/cr2/hls.m3u8
+#EXTINF:-1 tvg-id="OireachtasTVCommitteeRoom4.ie" tvg-name="Oireachtas TV Committee Room 4" tvg-logo="https://i.imgur.com/U9U4rgs.jpg" group-title="legislative",Oireachtas TV Committee Room 4
+https://d33zah5htxvoxb.cloudfront.net/el/live/cr4/hls.m3u8
+#EXTINF:-1 tvg-id="OireachtasTVDailEireann.ie" tvg-name="Oireachtas TV Dail Eireann" tvg-logo="https://i.imgur.com/mexKiS0.jpg" group-title="legislative",Oireachtas TV Dail Eireann
+https://d33zah5htxvoxb.cloudfront.net/el/live/dail/hls.m3u8
+#EXTINF:-1 tvg-id="OireachtasTV.ie" tvg-name="Oireachtas TV" tvg-logo="https://i.imgur.com/aC4fsCI.png" group-title="legislative",Oireachtas TV
+https://d33zah5htxvoxb.cloudfront.net/el/live/oirtv/hls.m3u8
