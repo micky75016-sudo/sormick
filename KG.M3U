@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="312TV.kg" tvg-name="312 TV" tvg-logo="https://i.ibb.co/S6sZvqk/iLSGi6c.png" group-title="entertainment",312 TV
+http://176.126.166.43:1935/live/312musik/playlist.m3u8
+#EXTINF:-1 tvg-id="ManasTV.kg" tvg-name="Manas TV" tvg-logo="https://i.ibb.co/2Kvcj5Q/manas.jpg" group-title="education;culture;entertainment",Manas TV
+http://212.42.111.152:8080/hls/manas.m3u8
+#EXTINF:-1 tvg-id="TV1KG.kg" tvg-name="TV1.KG" tvg-logo="https://i.imgur.com/Mti9t9C.png" group-title="general",TV1.KG
+http://212.2.225.30:1935/live/site.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="312Kino.kg" tvg-name="312 Kino" tvg-logo="https://i.ibb.co/3m9LrLj/k7gIibH.png" group-title="movies",312 Kino
+http://176.126.166.43:1935/live/312kino/playlist.m3u8
+#EXTINF:-1 tvg-id="TV15.kg" tvg-name="TV15" tvg-logo="https://i.ibb.co/1byxRtp/tv15.png" group-title="general",TV15
+http://gohoski.fvds.ru:3000/mediabay/655/playlist.m3u8
+#EXTINF:-1 tvg-id="ElTR.kg" tvg-name="ElTR" tvg-logo="https://i.ibb.co/r6czQwQ/365049798-774721644658455-5702658175909463406-n-2.png" group-title="general",ElTR
+http://gohoski.fvds.ru:3000/mediabay/162/index.m3u8
+#EXTINF:-1 tvg-id="Music.kg" tvg-name="Music" tvg-logo="https://www.utrk.kg/img/stream/45.png" group-title="music",Music
+https://st2.mediabay.tv/KG_KTRK-Muzika/index.m3u8
+#EXTINF:-1 tvg-id="Sport.kg" tvg-name="Sport" tvg-logo="https://i.imgur.com/ORCu0w0.png" group-title="sports",Sport
+https://st2.mediabay.tv/KG_KTRK-Sport/index.m3u8
+#EXTINF:-1 tvg-id="OshPirim.kg" tvg-name="Osh Pirim" tvg-logo="https://i.ibb.co/9VBnyQ1/cropped-white.png" group-title="general",Osh Pirim
+http://gohoski.fvds.ru:3000/mediabay/697/playlist.m3u8
+#EXTINF:-1 tvg-id="BilimIlim.kg" tvg-name="Bilim Ilim" tvg-logo="https://i.ibb.co/qswtSWm/428598841-309456895457301-6206911287895397651-n-1.png" group-title="kids;science",Bilim Ilim
+http://gohoski.fvds.ru:3000/mediabay/611/index.m3u8
+#EXTINF:-1 tvg-id="UTRK.kg" tvg-name="UTRK" tvg-logo="https://i.ibb.co/VJ7cPRH/Xp5clCA.png" group-title="general",UTRK
+https://st2.mediabay.tv/KG_KTRK-UTRK/index.m3u8
+#EXTINF:-1 tvg-id="NextTV.kg" tvg-name="Next TV" tvg-logo="https://i.imgur.com/9MiwdgD.png" group-title="",Next TV
+http://gohoski.fvds.ru:3000/mediabay/601/playlist.m3u8
+#EXTINF:-1 tvg-id="AlaToo24.kg" tvg-name="Ala-Too 24" tvg-logo="https://i.imgur.com/vBPmUQA.png" group-title="news",Ala-Too 24
+https://st2.mediabay.tv/KG_KTRK-Ala-too/playlist.m3u8
+#EXTINF:-1 tvg-id="Balastan.kg" tvg-name="Balastan" tvg-logo="https://i.imgur.com/D5ylCiX.png" group-title="kids",Balastan
+https://st2.mediabay.tv/KG_KTRK-Balastan/index.m3u8
