@@ -1,8 +1,0 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="TraceLatina" tvg-name="Trace Latina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/TRACE_Latina_Logo.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Musique",Trace Latina
-https://channels.trace.plus/Traceprod/LATINA_hd/index.m3u8
-
-#EXTM3U
-#EXTINF:-1 tvg-id="EuronewsSpanish" tvg-name="Euronews Spanish" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYF3ZJaMnWMlOvvwhnnWrrgvsCc6cz_n9_uvPWYzTH5EjMgoVyLYKdiAo&s=10" group-title="Musique",Euronews Spanish
-https://cdn-euronews.akamaized.net/live/eds/euronews-es/25053/index.m3u8
-
