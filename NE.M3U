@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TeleSahel.ne" tvg-name="Tele Sahel" tvg-logo="https://i.imgur.com/vboq428.png" group-title="general",Tele Sahel
+https://mediaserver1.castpin.com/hls/telesahel/index.m3u8
+#EXTINF:-1 tvg-id="TalTV.ne" tvg-name="Tal TV" tvg-logo="https://i.imgur.com/KWMP0t1.png" group-title="entertainment",Tal TV
+https://mediaserver1.castpin.com/hls/taltv/index.m3u8
+#EXTINF:-1 tvg-id="SaraouniaTV.ne" tvg-name="Saraounia TV" tvg-logo="https://i.imgur.com/O8XIcpH.png" group-title="news",Saraounia TV
+https://live20.bozztv.com/dvrfl06/astv/astv-saraouna/index.m3u8
+#EXTINF:-1 tvg-id="DouniaTV.ne" tvg-name="Dounia TV" tvg-logo="https://i.imgur.com/ENBCDaQ.png" group-title="general",Dounia TV
+https://live20.bozztv.com/dvrfl06/astv/astv-douniatv/index.m3u8
