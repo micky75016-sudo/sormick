@@ -1,0 +1,101 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="MindanowNetworkTV.ph" tvg-name="Mindanow Network TV" tvg-logo="https://i.imgur.com/xBlYirh.jpeg" group-title="general",Mindanow Network TV
+https://streams.comclark.com/overlay/mindanow/playlist.m3u8
+#EXTINF:-1 tvg-id="AbanteTV.ph" tvg-name="Abante TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Abante_masthead.svg" group-title="news",Abante TV
+https://amg19223-amg19223c12-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c12-amgplt0352/playlist.m3u8
+#EXTINF:-1 tvg-id="PremierSports.ph" tvg-name="Premier Sports" tvg-logo="https://i.imgur.com/BURPHzI.png" group-title="sports",Premier Sports
+https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c3-amgplt0351/playlist.m3u8
+#EXTINF:-1 tvg-id="INCTV.ph" tvg-name="INC TV" tvg-logo="https://i.imgur.com/JGSLqA6.png" group-title="religious",INC TV
+https://stream-243529.castr.net/6842a712b68c56f675d988f1/live_f5ac22b0566511f0805217b960326aaa/rewind-1800.m3u8
+#EXTINF:-1 tvg-id="BilyonaryoNewsChannel.ph" tvg-name="Bilyonaryo News Channel" tvg-logo="https://i.imgur.com/iTH9Z0j.png" group-title="news",Bilyonaryo News Channel
+https://amg19223-amg19223c11-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c11-amgplt0352/playlist.m3u8
+#EXTINF:-1 tvg-id="LivingAsiaChannel.ph" tvg-name="Living Asia Channel" tvg-logo="https://i.imgur.com/q3UToRM.png" group-title="travel",Living Asia Channel
+https://streams.comclark.com/pknsd/lac/playlist.m3u8
+#EXTINF:-1 tvg-id="DZMMTeleRadyo.ph" tvg-name="DZMM TeleRadyo" tvg-logo="https://i.imgur.com/qKyLqhd.png" group-title="news",DZMM TeleRadyo
+https://streams.comclark.com/pknsd/teleradyo/playlist.m3u8
+#EXTINF:-1 tvg-id="TAPTV.ph" tvg-name="TAP TV" tvg-logo="https://i.imgur.com/1Fkh0Vx.png" group-title="",TAP TV
+https://streams.comclark.com/pknsd/taptv/playlist.m3u8
+#EXTINF:-1 tvg-id="Net25.ph" tvg-name="Net 25" tvg-logo="https://i.imgur.com/pPPubX5.png" group-title="general",Net 25
+https://streams.comclark.com/pknsd/net_25/playlist.m3u8
+#EXTINF:-1 tvg-id="DZRHNewsTV.ph" tvg-name="DZRH News TV" tvg-logo="https://i.imgur.com/qe1QqZh.png" group-title="news",DZRH News TV
+https://streams.comclark.com/pknsd/dzrh/playlist.m3u8
+#EXTINF:-1 tvg-id="A2Z.ph" tvg-name="A2Z" tvg-logo="https://i.imgur.com/1zsdloF.png" group-title="general",A2Z
+https://streams.comclark.com/pknsd/a2z/playlist.m3u8
+#EXTINF:-1 tvg-id="OneSports.ph" tvg-name="One Sports" tvg-logo="https://i.imgur.com/ig5PBMu.png" group-title="sports",One Sports
+https://streams.comclark.com/pknsd/one_sports/playlist.m3u8
+#EXTINF:-1 tvg-id="CCTN47.ph" tvg-name="CCTN 47" tvg-logo="https://i.imgur.com/IFpAmvW.png" group-title="religious",CCTN 47
+http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8
+#EXTINF:-1 tvg-id="TAPMovies.ph" tvg-name="TAP Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/TapMovies-ph.png" group-title="movies",TAP Movies
+https://streams.comclark.com/pknsd/tapmovies/playlist.m3u8
+#EXTINF:-1 tvg-id="KapamilyaChannel.ph" tvg-name="Kapamilya Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Kapamilya_Channel_Logo_2020.svg/960px-Kapamilya_Channel_Logo_2020.svg.png" group-title="entertainment",Kapamilya Channel
+https://streams.comclark.com/pknhd/kapamilya_hd/playlist.m3u8
+#EXTINF:-1 tvg-id="PBO.ph" tvg-name="PBO" tvg-logo="https://i.imgur.com/HZURi7d.png" group-title="entertainment",PBO
+https://streams.comclark.com/pknsd/pbo/playlist.m3u8
+#EXTINF:-1 tvg-id="KnowledgeChannel.ph" tvg-name="Knowledge Channel" tvg-logo="https://i.imgur.com/YrmMWXD.png" group-title="education",Knowledge Channel
+https://streams.comclark.com/pknsd/knowledge/playlist.m3u8
+#EXTINF:-1 tvg-id="CineMo.ph" tvg-name="Cine Mo!" tvg-logo="https://i.imgur.com/rGAOD3f.png" group-title="movies",Cine Mo!
+https://streams.comclark.com/pknsd/cinemo/playlist.m3u8
+#EXTINF:-1 tvg-id="AliwChannel23.ph" tvg-name="Aliw Channel 23" tvg-logo="https://i.imgur.com/8q1BkZ3.png" group-title="general",Aliw Channel 23
+https://streams.comclark.com/pknsd/aliw/playlist.m3u8
+#EXTINF:-1 tvg-id="JeepneyTV.ph" tvg-name="Jeepney TV" tvg-logo="https://i.imgur.com/RNxfhcc.png" group-title="general",Jeepney TV
+https://streams.comclark.com/pknsd/jeepney/playlist.m3u8
+#EXTINF:-1 tvg-id="RJDigiTV.ph" tvg-name="RJ DigiTV" tvg-logo="https://i.imgur.com/i0iZQ5G.png" group-title="entertainment",RJ DigiTV
+https://streams.comclark.com/pknsd/rjtv_29/playlist.m3u8
+#EXTINF:-1 tvg-id="INCRadio.ph" tvg-name="INC Radio" tvg-logo="https://i.imgur.com/y2Nrr68.png" group-title="religious",INC Radio
+https://stream-243529.castr.net/6842a712b68c56f675d988f1/live_b60a96e056fc11f084c05f5d0649296b/rewind-1800.m3u8
+#EXTINF:-1 tvg-id="Myx.ph" tvg-name="Myx" tvg-logo="https://i.imgur.com/pbHuUuV.png" group-title="music",Myx
+https://streams.comclark.com/pknsd/myx/playlist.m3u8
+#EXTINF:-1 tvg-id="TagalizedMovieChannel.ph" tvg-name="Tagalized Movie Channel" tvg-logo="https://i.imgur.com/jr9Qm2M.png" group-title="",Tagalized Movie Channel
+https://streams.comclark.com/pknsd/tmc/playlist.m3u8
+#EXTINF:-1 tvg-id="ANC.ph" tvg-name="ANC" tvg-logo="https://i.imgur.com/odwRbRk.png" group-title="news",ANC
+https://streams.comclark.com/pknsd/anc/playlist.m3u8
+#EXTINF:-1 tvg-id="IBC13.ph" tvg-name="IBC 13" tvg-logo="https://i.imgur.com/1KaTUOo.png" group-title="general",IBC 13
+https://streams.comclark.com/pknsd/ibc_13/playlist.m3u8
+#EXTINF:-1 tvg-id="GMATV.ph" tvg-name="GMA TV" tvg-logo="https://i.imgur.com/uAqFMLy.png" group-title="general",GMA TV
+https://streams.comclark.com/pknsd/gma_7/playlist.m3u8
+#EXTINF:-1 tvg-id="KapatidTV5.ph" tvg-name="Kapatid TV 5" tvg-logo="https://i.imgur.com/xb5lkwG.png" group-title="general",Kapatid TV 5
+https://thinkkast.dpdns.org/tkk-ph/i7/kapatid_hd/kapatid.m3u8
+#EXTINF:-1 tvg-id="LightTV.ph" tvg-name="Light TV" tvg-logo="https://i.imgur.com/bsjhl6L.png" group-title="religious",Light TV
+https://streams.comclark.com/pknsd/light_tv/playlist.m3u8
+#EXTINF:-1 tvg-id="GTV.ph" tvg-name="GTV" tvg-logo="https://i.imgur.com/rWhamwh.png" group-title="news",GTV
+https://streams.comclark.com/pknsd/gtv/playlist.m3u8
+#EXTINF:-1 tvg-id="TV5.ph" tvg-name="TV5" tvg-logo="https://i.imgur.com/PYJhTiq.png" group-title="",TV5
+https://streams.comclark.com/pknsd/tv5/playlist.m3u8
+#EXTINF:-1 tvg-id="OneMediaNetwork.ph" tvg-name="One Media Network" tvg-logo="https://i.imgur.com/fyfZkKg.png" group-title="entertainment",One Media Network
+https://streams.comclark.com/pknsd/onemedia/playlist.m3u8
+#EXTINF:-1 tvg-id="PremierFootball.ph" tvg-name="Premier Football" tvg-logo="https://i.imgur.com/lKjXwtG.png" group-title="sports",Premier Football
+https://streams.comclark.com/pknhd/premier_football/playlist.m3u8
+#EXTINF:-1 tvg-id="PTV.ph" tvg-name="PTV" tvg-logo="https://i.imgur.com/MMccHNd.png" group-title="",PTV
+https://streams.comclark.com/pknsd/ptv/playlist.m3u8
+#EXTINF:-1 tvg-id="AllTV.ph" tvg-name="All TV" tvg-logo="https://i.imgur.com/vuzKeNN.png" group-title="entertainment",All TV
+https://streams.comclark.com/pknsd/alltv/playlist.m3u8
+#EXTINF:-1 tvg-id="UNTV.ph" tvg-name="UNTV" tvg-logo="https://i.imgur.com/gFcpYSJ.png" group-title="general",UNTV
+https://streams.comclark.com/pknsd/untv/playlist.m3u8
+#EXTINF:-1 tvg-id="RPTV.ph" tvg-name="RPTV" tvg-logo="https://i.imgur.com/ZgSEwq9.png" group-title="general",RPTV
+https://streams.comclark.com/pknsd/rptv/playlist.m3u8
+#EXTINF:-1 tvg-id="SMNI.ph" tvg-name="SMNI" tvg-logo="https://i.imgur.com/9QhVnqY.jpg" group-title="",SMNI
+https://stream.kdlc.click/hls/0/stream.m3u8
+#EXTINF:-1 tvg-id="SolarSports.ph" tvg-name="Solar Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/Solar_Sports_2016_logo.png" group-title="sports",Solar Sports
+https://streams.comclark.com/pknsd/solar_sports/playlist.m3u8
+#EXTINF:-1 tvg-id="TVMaria.ph" tvg-name="TV Maria" tvg-logo="https://i.imgur.com/yhIM9yU.png" group-title="religious",TV Maria
+https://streams.comclark.com/pknsd/tvmaria/playlist.m3u8
+#EXTINF:-1 tvg-id="CinemaOne.ph" tvg-name="Cinema One" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Cinema_One_2013_logo.svg/960px-Cinema_One_2013_logo.svg.png" group-title="movies",Cinema One
+https://streams.comclark.com/pknsd/cinemaone/playlist.m3u8
+#EXTINF:-1 tvg-id="PremierSports2.ph" tvg-name="Premier Sports 2" tvg-logo="https://i.imgur.com/UQeXWd2.png" group-title="sports",Premier Sports 2
+https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8
+#EXTINF:-1 tvg-id="VivaCinema.ph" tvg-name="Viva Cinema" tvg-logo="https://i.imgur.com/Bwcj1Oc.png" group-title="movies",Viva Cinema
+https://streams.comclark.com/pknsd/viva/playlist.m3u8
+#EXTINF:-1 tvg-id="TAPActionFlix.ph" tvg-name="TAP Action Flix" tvg-logo="https://i.imgur.com/45Y6iXq.png" group-title="movies",TAP Action Flix
+https://streams.comclark.com/pknsd/tapactionflix/playlist.m3u8
+#EXTINF:-1 tvg-id="SolarFlix.ph" tvg-name="SolarFlix" tvg-logo="https://i.imgur.com/kdf2Rrw.png" group-title="entertainment",SolarFlix
+https://streams.comclark.com/pknsd/solar_flix/playlist.m3u8
+#EXTINF:-1 tvg-id="TAPEdge.ph" tvg-name="TAP Edge" tvg-logo="https://i.imgur.com/ljey69u.png" group-title="sports",TAP Edge
+https://streams.comclark.com/pknsd/tapedge/playlist.m3u8
+#EXTINF:-1 tvg-id="HopeChannelPhilippines.ph" tvg-name="Hope Channel Philippines" tvg-logo="https://i.imgur.com/LB2vmMt.png" group-title="religious",Hope Channel Philippines
+https://jstre.am/live/jsl:nX5eC7gQvZb.m3u8
+#EXTINF:-1 tvg-id="CLTV36.ph" tvg-name="CLTV 36" tvg-logo="https://i.imgur.com/IUcTFQ2.png" group-title="general",CLTV 36
+https://live.cltv36.tv:5443/LiveApp/streams/cltvlive.m3u8
+#EXTINF:-1 tvg-id="CartoonChannelPH.ph" tvg-name="Cartoon Channel PH" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/af449718-cdf7-4357-b308-30edb3ac6eff-profile_image-300x300.png" group-title="kids",Cartoon Channel PH
+https://stream-cdn-iad3.vaughnsoft.net/play/live_cartoonchannelph.flv
+#EXTINF:-1 tvg-id="KoolTV.ph" tvg-name="Kool TV" tvg-logo="https://yt3.googleusercontent.com/opqPJfc0Ptd9ohl4R-2hPjaquIAdWuqvRb0T_LBCmfyGznIvfGN0HOlcWZk6Lj2jk11s2Zlk=s1200-c-k-c0x00ffffff-no-rj" group-title="music",Kool TV
+https://twitch-m3u8.bastypro112.workers.dev/kooltvlive/index.m3u8
