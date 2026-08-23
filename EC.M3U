@@ -1,0 +1,161 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Ecuavisa.ec" tvg-name="Ecuavisa" tvg-logo="https://i.imgur.com/Hl5wowk.png" group-title="general",Ecuavisa
+https://dai.google.com/linear/hls/event/GyPkTVDZSXGhpOvxPK7m2g/master.m3u8
+#EXTINF:-1 tvg-id="Teleamazonas.ec" tvg-name="Teleamazonas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/960px-Teleamazonas_Logo.png" group-title="general",Teleamazonas
+http://45.171.108.253:8888/TELEAMAZONAS/index.m3u8
+#EXTINF:-1 tvg-id="RTS.ec" tvg-name="RTS" tvg-logo="https://i.imgur.com/PML8cJA.png" group-title="general",RTS
+http://45.171.108.253:8888/RTS/index.m3u8
+#EXTINF:-1 tvg-id="OromarTV.ec" tvg-name="Oromar TV" tvg-logo="https://oromartv.com/images/OTV400.png" group-title="general",Oromar TV
+http://45.224.97.181:9999/Oromar/index.m3u8
+#EXTINF:-1 tvg-id="TCTelevision.ec" tvg-name="TC Television" tvg-logo="https://i.imgur.com/okK02EN.png" group-title="general",TC Television
+http://45.224.97.181:9999/TC/index.m3u8
+#EXTINF:-1 tvg-id="TVC.ec" tvg-name="TVC" tvg-logo="https://i.imgur.com/zhdIwlm.png" group-title="general",TVC
+http://45.224.97.181:9999/TVC/index.m3u8
+#EXTINF:-1 tvg-id="Gamavision.ec" tvg-name="Gamavision" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Gamavisi%C3%B3n2018new.png" group-title="general",Gamavision
+http://45.224.97.181:9999/Gamavision/index.m3u8
+#EXTINF:-1 tvg-id="RTU.ec" tvg-name="RTU" tvg-logo="https://i.imgur.com/1OWvMP4.png" group-title="news",RTU
+https://video1.makrodigital.com/rtu/rtu/chunks.m3u8?nimblesessionid=
+#EXTINF:-1 tvg-id="MakroDigitalTelevision.ec" tvg-name="MakroDigital Television" tvg-logo="https://makrodigitaltelevision.com/logo.jpg" group-title="entertainment",MakroDigital Television
+https://makrodigitaltv.makrodigital.com/makrodigitaltelevision/iptv/playlist.m3u8
+#EXTINF:-1 tvg-id="EcuadorTV.ec" tvg-name="Ecuador TV" tvg-logo="https://i.imgur.com/hj6EYwe.png" group-title="general",Ecuador TV
+http://45.224.97.181:9999/EcuadorTV/index.m3u8
+#EXTINF:-1 tvg-id="InfinitaTV.ec" tvg-name="Infinita TV" tvg-logo="https://i.imgur.com/1nHxdkR.png" group-title="music",Infinita TV
+https://s2.tvdatta.com:3753/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="AntenaUnoRadiovideo.ec" tvg-name="Antena Uno Radiovideo" tvg-logo="https://i.imgur.com/PCN6iZJ.png" group-title="",Antena Uno Radiovideo
+https://tvdatta.com:3578/live/antenaunolive.m3u8
+#EXTINF:-1 tvg-id="FMMundo.ec" tvg-name="FM Mundo" tvg-logo="https://i.imgur.com/1nNnYQO.png" group-title="music",FM Mundo
+https://video2.makrodigital.com/fmmundo/fmmundo/playlist.m3u8
+#EXTINF:-1 tvg-id="ElSolNetworkTV.ec" tvg-name="El Sol Network TV" tvg-logo="https://i.imgur.com/TIH3zlP.png" group-title="music",El Sol Network TV
+https://tv.wracanal10.com:3025/live/elsoltvlive.m3u8
+#EXTINF:-1 tvg-id="CaprichoTV.ec" tvg-name="Capricho TV" tvg-logo="https://i.imgur.com/eUoj9bG.png" group-title="general",Capricho TV
+https://video.compuwebecuador.com:3783/live/caprichotvlive.m3u8
+#EXTINF:-1 tvg-id="PantallaClasicaEC.ec" tvg-name="Pantalla Clasica EC" tvg-logo="https://i.imgur.com/mhbERF9.jpg" group-title="movies;series",Pantalla Clasica EC
+https://live21.bozztv.com/akamaissh101/ssh101/pantallaclasics/playlist.m3u8
+#EXTINF:-1 tvg-id="CiracuTV.ec" tvg-name="Ciracu TV" tvg-logo="https://i.imgur.com/mkf2TJ6.png" group-title="culture",Ciracu TV
+https://cloud37.ecuatel.com/ciracutv/live/manifest.m3u8
+#EXTINF:-1 tvg-id="LaNuevaRadioTV977.ec" tvg-name="La Nueva Radio TV 97.7" tvg-logo="https://i.imgur.com/19FN4Lp.png" group-title="entertainment",La Nueva Radio TV 97.7
+https://sv72.ecuaradiotv.net/lanuevatv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="TVColorCanal36.ec" tvg-name="TV Color Canal 36" tvg-logo="https://i.imgur.com/QJW6khK.jpg" group-title="general",TV Color Canal 36
+https://video.compuwebecuador.com:3067/live/tvcolorlive.m3u8
+#EXTINF:-1 tvg-id="TVUniversalEcuador.ec" tvg-name="TV Universal Ecuador" tvg-logo="https://i.imgur.com/TIsk5zN.png" group-title="religious",TV Universal Ecuador
+https://cdn.mycloudstream.io/hls/live/broadcast/uwcedjt2/index.m3u8
+#EXTINF:-1 tvg-id="RadioBonita1067.ec" tvg-name="Radio Bonita 106.7" tvg-logo="https://i.imgur.com/IvZtqyz.png" group-title="music",Radio Bonita 106.7
+https://cloudvideo.servers10.com:8081/8154/index.m3u8
+#EXTINF:-1 tvg-id="PuruwaTV.ec" tvg-name="Puruwa TV" tvg-logo="https://i.imgur.com/CYldC2R.png" group-title="general",Puruwa TV
+https://live.tvcontrolcp.com:1936/puruwatv/puruwatv/playlist.m3u8
+#EXTINF:-1 tvg-id="RadioCuencaEstereo.ec" tvg-name="Radio Cuenca Estereo" tvg-logo="https://i.imgur.com/qZzSOeU.png" group-title="music",Radio Cuenca Estereo
+https://eu1.servers10.com:8081/8074/index.m3u8
+#EXTINF:-1 tvg-id="RadioFantastica989FM.ec" tvg-name="Radio Fantastica 98.9 FM" tvg-logo="https://i.imgur.com/mpcIbrH.jpg" group-title="music",Radio Fantastica 98.9 FM
+http://190.107.232.9:8082/livestream/stream.m3u8
+#EXTINF:-1 tvg-id="AmericaEstereoIbarra.ec" tvg-name="America Estereo Ibarra" tvg-logo="https://i.imgur.com/gUqKymM.png" group-title="general",America Estereo Ibarra
+https://video.makrodigital.com/americaestereoibarra/americaestereoibarra/playlist.m3u8
+#EXTINF:-1 tvg-id="AmericaEstereoQuito.ec" tvg-name="America Estereo Quito" tvg-logo="https://i.imgur.com/gUqKymM.png" group-title="general",America Estereo Quito
+https://video.makrodigital.com/americaestereoquito/americaestereoquito/playlist.m3u8
+#EXTINF:-1 tvg-id="VosyTV.ec" tvg-name="Vos y TV" tvg-logo="https://i.imgur.com/294FDCB.png" group-title="music",Vos y TV
+https://cloud37.ecuatel.com/vostv/live/manifest.m3u8
+#EXTINF:-1 tvg-id="MulticanalCatamayo.ec" tvg-name="Multicanal Catamayo" tvg-logo="https://i.imgur.com/IHKBGmu.png" group-title="general",Multicanal Catamayo
+https://multicanal.streamseguro.com:5443/LiveApp/streams/streaming.m3u8
+#EXTINF:-1 tvg-id="AmericaEstereoGuayaquil.ec" tvg-name="America Estereo Guayaquil" tvg-logo="https://i.imgur.com/gUqKymM.png" group-title="general",America Estereo Guayaquil
+https://video.makrodigital.com/americaestereoguayaquil/americaestereoguayaquil/playlist.m3u8
+#EXTINF:-1 tvg-id="RadioImpacto2.ec" tvg-name="Radio Impacto 2" tvg-logo="https://i.imgur.com/YvK1hm7.png" group-title="",Radio Impacto 2
+https://panel.streamingtv-mediacp.online:1936/jawepvrvyz/jawepvrvyz/playlist.m3u8
+#EXTINF:-1 tvg-id="BacanTeVeo.ec" tvg-name="Bacan Te Veo" tvg-logo="https://i.imgur.com/m1LK6rY.png" group-title="entertainment",Bacan Te Veo
+https://stmv6.voxtvhd.com.br/vacantveo2/vacantveo2/playlist.m3u8
+#EXTINF:-1 tvg-id="HechosEcuador.ec" tvg-name="Hechos Ecuador" tvg-logo="https://i.imgur.com/koMQZNX.png" group-title="general",Hechos Ecuador
+https://online.hechosecuador.com:5443/WebRTCApp/streams/hechosecuador.m3u8
+#EXTINF:-1 tvg-id="RadioMonumentalTV.ec" tvg-name="Radio Monumental TV" tvg-logo="https://i.imgur.com/a97MaV2.png" group-title="music",Radio Monumental TV
+https://cloud37.ecuatel.com/monumentaltv/live/manifest.m3u8
+#EXTINF:-1 tvg-id="LaPerlaRadioTV.ec" tvg-name="La Perla Radio TV" tvg-logo="https://i.imgur.com/8wDMgmB.jpg" group-title="music",La Perla Radio TV
+https://eu1.servers10.com:8081/8068/index.m3u8
+#EXTINF:-1 tvg-id="RTV.ec" tvg-name="RTV" tvg-logo="https://i.imgur.com/DzxGHRZ.png" group-title="general",RTV
+https://sv72.ecuaradiotv.net/rtvhd/live/manifest.m3u8
+#EXTINF:-1 tvg-id="LatacungaTV.ec" tvg-name="LatacungaTV" tvg-logo="https://i.imgur.com/YjgYYH3.png" group-title="entertainment",LatacungaTV
+https://stmv1.voxtvhd.com.br/latacungatv/latacungatv/playlist.m3u8
+#EXTINF:-1 tvg-id="Asomavision.ec" tvg-name="Asomavision" tvg-logo="https://i.imgur.com/VqwyCV1.png" group-title="religious",Asomavision
+https://asomatv.cloud-ip.cc/livestream/stream.m3u8
+#EXTINF:-1 tvg-id="LoretoTV.ec" tvg-name="Loreto TV" tvg-logo="https://i.imgur.com/3qGSAT3.png" group-title="general",Loreto TV
+https://loretotv.moxapps.shop/live/QFM7KYOlxWd47ybXB3Z1u2P13Py1/index.m3u8
+#EXTINF:-1 tvg-id="ZaracayTV.ec" tvg-name="Zaracay TV" tvg-logo="https://i.imgur.com/6q0Gp9R.png" group-title="general",Zaracay TV
+https://video2.makrodigital.com/zaracay/zaracay/playlist.m3u8
+#EXTINF:-1 tvg-id="WuanPlus.ec" tvg-name="Wuan+" tvg-logo="https://i.imgur.com/pJNx1za.png" group-title="general",Wuan+
+https://7.innovatestream.pe:19360/ecuadortest/ecuadortest.m3u8
+#EXTINF:-1 tvg-id="Manavision.ec" tvg-name="Manavision" tvg-logo="https://i.imgur.com/mZkW342.png" group-title="culture",Manavision
+https://play.once.net.ec/play/Ily2oYdd3E1fi9wK2zORoRovFU9P5xM0g3CNVK2MT0M/.m3u8
+#EXTINF:-1 tvg-id="StudioPlusTV.ec" tvg-name="Studio + TV" tvg-logo="https://carjocosa.space/studio/logo.png" group-title="general",Studio + TV
+https://cloudvideo.servers10.com:8081/8184/index.m3u8
+#EXTINF:-1 tvg-id="TvOro.ec" tvg-name="TvOro" tvg-logo="https://i.imgur.com/9d02qUU.jpeg" group-title="general",TvOro
+http://45.187.0.19:9090/tvusa/index.m3u8
+#EXTINF:-1 tvg-id="OndasQuevedenasTV.ec" tvg-name="Ondas Quevedenas TV" tvg-logo="https://i.imgur.com/K9pW0LA.jpeg" group-title="general",Ondas Quevedenas TV
+https://stmv6.voxtvhd.com.br/radiosuprema/radiosuprema/playlist.m3u8
+#EXTINF:-1 tvg-id="RTRTV.ec" tvg-name="RTRTV" tvg-logo="https://i.imgur.com/dvP2yqB.png" group-title="general",RTRTV
+https://tv3ecuador.site/hls/stream/index.m3u8
+#EXTINF:-1 tvg-id="Telerama.ec" tvg-name="Telerama" tvg-logo="https://i.imgur.com/whIRrjo.png" group-title="general",Telerama
+https://play.once.net.ec/telerama/live.tv/538.m3u8
+#EXTINF:-1 tvg-id="UnsionTV.ec" tvg-name="Unsion TV" tvg-logo="https://i.imgur.com/HQGBqGU.png" group-title="",Unsion TV
+http://provedores.unsion.tv:8081/srt/1/playlist.m3u8
+#EXTINF:-1 tvg-id="MetropoliMediosTV.ec" tvg-name="Metropoli Medios TV" tvg-logo="https://i.imgur.com/yID5T2S.jpg" group-title="music",Metropoli Medios TV
+https://eu1.servers10.com:8081/8214/index.m3u8
+#EXTINF:-1 tvg-id="TVCisne.ec" tvg-name="TV Cisne" tvg-logo="https://i.imgur.com/xIuFSnx.png" group-title="general",TV Cisne
+https://video2.lhdserver.es/tvcisne/live.m3u8
+#EXTINF:-1 tvg-id="EcotelTV.ec" tvg-name="Ecotel TV" tvg-logo="https://i.imgur.com/pVlZUSV.png" group-title="news",Ecotel TV
+https://ecoteltv.streamseguro.com:5443/LiveApp/streams/streaming.m3u8
+#EXTINF:-1 tvg-id="GM7Digital.ec" tvg-name="GM7 Digital" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3708-294x165-FFFFFF.jpg" group-title="general",GM7 Digital
+https://s2.tvdatta.com:3858/live/gm7digitallive.m3u8
+#EXTINF:-1 tvg-id="IeanJesusEcuador.ec" tvg-name="IeanJesus Ecuador" tvg-logo="https://i.imgur.com/TyckDSV.png" group-title="religious",IeanJesus Ecuador
+https://cloud37.ecuatel.com/iglesia2020/Stream1/playlist.m3u8
+#EXTINF:-1 tvg-id="VitoTVO.ec" tvg-name="VitoTVO" tvg-logo="https://i.imgur.com/QoJ2gD0.png" group-title="",VitoTVO
+http://iptv.vitotvo.video.makrodigital.com:8081/vitotvo/iptv/playlist.m3u8
+#EXTINF:-1 tvg-id="KCHTV.ec" tvg-name="KCHTV" tvg-logo="https://i.imgur.com/CwQmZm7.jpeg" group-title="general",KCHTV
+http://iptv.kchtv.video.makrodigital.com:8081/kchtv/iptv/playlist.m3u8
+#EXTINF:-1 tvg-id="ImperioTVCanal6.ec" tvg-name="Imperio TV Canal 6" tvg-logo="https://i.imgur.com/NrsNljx.png" group-title="general",Imperio TV Canal 6
+https://live21.bozztv.com/akamaissh101/ssh101/imperiotvcanal6/playlist.m3u8
+#EXTINF:-1 tvg-id="MajestadTelevision.ec" tvg-name="Majestad Television" tvg-logo="https://i.imgur.com/d1GWRnm.png" group-title="general",Majestad Television
+https://videoserver.tmcreativos.com:19360/majestadtv/majestadtv.m3u8
+#EXTINF:-1 tvg-id="MelRadioTV.ec" tvg-name="Mel Radio TV" tvg-logo="https://i.imgur.com/uu8Clh2.png" group-title="entertainment",Mel Radio TV
+https://eu1.servers10.com:8081/8334/index.m3u8
+#EXTINF:-1 tvg-id="Telemar.ec" tvg-name="Telemar" tvg-logo="https://i.imgur.com/0vX9oJF.png" group-title="general",Telemar
+https://cloudpro.servidoresdestream.com:8081/8020/index.m3u8
+#EXTINF:-1 tvg-id="AustralTV.ec" tvg-name="Austral TV" tvg-logo="https://i.imgur.com/zgGuCYL.png" group-title="general",Austral TV
+https://stmv3.voxtvhd.com.br/australtv/australtv/playlist.m3u8
+#EXTINF:-1 tvg-id="Telecosta.ec" tvg-name="Telecosta" tvg-logo="https://i.imgur.com/1DqLy8H.png" group-title="general",Telecosta
+https://telecosta.botlife.app/memfs/6ba9dc9a-aff4-4e4e-9466-a9f0c714b60b.m3u8
+#EXTINF:-1 tvg-id="SonoOndaTV.ec" tvg-name="Sono Onda TV" tvg-logo="https://i.imgur.com/HWHeqWY.png" group-title="",Sono Onda TV
+https://live.obslivestream.com/sonoondatv/index.m3u8
+#EXTINF:-1 tvg-id="OromarTVPlus.ec" tvg-name="Oromar TV+" tvg-logo="https://oromartv.com/images/OTV400.png" group-title="general",Oromar TV+
+https://stream.oromar.tv/hls/camriva/index.m3u8
+#EXTINF:-1 tvg-id="RedTVEVentanas.ec" tvg-name="Red TVE Ventanas" tvg-logo="https://i.imgur.com/Pzf2ZAW.png" group-title="general",Red TVE Ventanas
+https://s2.tvdatta.com:3825/live/redtvelive.m3u8
+#EXTINF:-1 tvg-id="MarcaTV.ec" tvg-name="Marca TV" tvg-logo="https://i.imgur.com/ez1NxwJ.jpg" group-title="general",Marca TV
+http://200.7.219.221:8088/live/livetv/index.m3u8
+#EXTINF:-1 tvg-id="CuriquingueTV.ec" tvg-name="Curiquingue TV" tvg-logo="https://i.imgur.com/oukGx28.png" group-title="general",Curiquingue TV
+https://video2.lhdserver.es/pjtv/live.m3u8
+#EXTINF:-1 tvg-id="NukaTV.ec" tvg-name="Nuka TV" tvg-logo="https://i.imgur.com/4r2Ycju.png" group-title="general",Nuka TV
+https://cloudvideo.servers10.com:8081/8118/index.m3u8
+#EXTINF:-1 tvg-id="PlanetaChannel.ec" tvg-name="Planeta Channel" tvg-logo="https://i.imgur.com/XyBKaXI.png" group-title="general",Planeta Channel
+https://vs20.live.opencaster.com/planetachannel_089eff6d/index.m3u8
+#EXTINF:-1 tvg-id="UEBITVOnline.ec" tvg-name="UEBI TV Online" tvg-logo="https://i.imgur.com/Tf0BF2q.jpg" group-title="education",UEBI TV Online
+https://ventaxtv.com:3575/live/uebilive.m3u8
+#EXTINF:-1 tvg-id="AmericaEstereoTulcan.ec" tvg-name="America Estereo Tulcan" tvg-logo="https://i.imgur.com/gUqKymM.png" group-title="general",America Estereo Tulcan
+https://video.makrodigital.com/americaestereotulcan/americaestereotulcan/playlist.m3u8
+#EXTINF:-1 tvg-id="IntiTV.ec" tvg-name="Inti TV" tvg-logo="https://i.imgur.com/2WirGqb.png" group-title="education",Inti TV
+https://5e2f36bc1c433.streamlock.net/inti/inti-network.stream/.m3u8
+#EXTINF:-1 tvg-id="GaviotaTV.ec" tvg-name="Gaviota TV" tvg-logo="https://i.imgur.com/1vlZA6O.png" group-title="entertainment",Gaviota TV
+https://gaviotatv.streamseguro.com:3195/live/gaviotatvlive.m3u8
+#EXTINF:-1 tvg-id="DuranTV.ec" tvg-name="Duran TV" tvg-logo="https://i.imgur.com/8k8DsBL.png" group-title="general",Duran TV
+https://cloudvideo.servers10.com:8081/8074/index.m3u8
+#EXTINF:-1 tvg-id="EducaTV.ec" tvg-name="Educa TV" tvg-logo="https://i.imgur.com/nDRVsIc.png" group-title="education",Educa TV
+https://avm.ecuamedia.net/educatv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="Telesucesos.ec" tvg-name="Telesucesos" tvg-logo="https://i.imgur.com/D1BBTv8.png" group-title="general",Telesucesos
+https://ticsbalancer.ticsecuador.com.ec:4444/TeleSucesos/streams/UIO-HD_adaptive.m3u8
+#EXTINF:-1 tvg-id="TVLegislativa.ec" tvg-name="TV Legislativa" tvg-logo="https://i.imgur.com/9eeLsgg.png" group-title="legislative",TV Legislativa
+https://streamingav.asambleanacional.gob.ec/hls/stream.m3u8
+#EXTINF:-1 tvg-id="MarioPintoTV.ec" tvg-name="Mario Pinto TV" tvg-logo="https://i.imgur.com/9rU6yWo.jpg" group-title="news",Mario Pinto TV
+https://eu1.servers10.com:8081/8028/index.m3u8
+#EXTINF:-1 tvg-id="UNIANDESTV.ec" tvg-name="UNIANDES TV" tvg-logo="https://i.imgur.com/1rluyB7.png" group-title="education",UNIANDES TV
+https://video.compuwebecuador.com:3323/live/uniandeslive.m3u8
+#EXTINF:-1 tvg-id="EcuaMundoRadioTV.ec" tvg-name="EcuaMundo Radio TV" tvg-logo="https://i.imgur.com/EMe5oWn.jpg" group-title="music",EcuaMundo Radio TV
+https://pacific.direcnode.com:3353/live/ecuamundotvlive.m3u8
+#EXTINF:-1 tvg-id="DuendeTv.ec" tvg-name="Duende Tv" tvg-logo="https://i.imgur.com/6125FPV.jpg" group-title="general",Duende Tv
+https://live.fansplay.tv/livestreams/21.GdPGZIRcwzZ9vgE5.m3u8
+#EXTINF:-1 tvg-id="PlusTV.ec" tvg-name="Plus TV" tvg-logo="https://i.imgur.com/TZqOINg.png" group-title="general",Plus TV
+https://plustv.streamseguro.com:5443/LiveApp/streams/streaming.m3u8
